@@ -1,0 +1,23 @@
+crear venv
+    python -m venv nombreProyecto
+
+activar venv    
+    . start.sh
+
+instalar Django
+    pip install Django
+
+iniciar git
+    git init
+    conectarlo a github
+
+crear proyecto Django
+
+# activar venv
+# .\proyectoDjango-venv\Scripts\activate
+
+# deactivate para cerrarlo
+
+
+activar Django
+python .\manage.py runserver
