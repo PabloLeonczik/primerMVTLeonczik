@@ -12,6 +12,12 @@ iniciar git
     conectarlo a github
 
 crear proyecto Django
+    django-admin startproject primerMVTLeonczik
+
+comprobar que funca
+    python manage.py runserver
+
+
 
 # activar venv
 # .\proyectoDjango-venv\Scripts\activate
